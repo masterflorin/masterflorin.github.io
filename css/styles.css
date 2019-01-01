@@ -71,7 +71,7 @@ main > .tagline {
 }
 
 .button {
-    background-color: #5f021f;
+    background-color: #FAFAFA;
     border: inset;
     color: white;
     padding: 15px 32px;
@@ -82,11 +82,11 @@ main > .tagline {
 }
 
 .button:hover {
-	background-color: #ad0539;
+	background-color: #0277BD;
 }
 
 .button:active {
-  background-color: #5f021f;
+  background-color: #0277BD;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
