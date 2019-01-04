@@ -1,14 +1,9 @@
-# light material jekyll theme
-a lightweight jekyll blogging theme, perfect for your personal page.
+# Florin's website
 
-# [DEMO](http://himsel.me/material-theme)
-# [Who is using this theme?](http://himsel.me/06-15-2017-Jekyll-themes.html)
+I'm using this as sort of website/blog and landing page.
 
-### Use this Jekyll theme
-[Read the Article about it!](http://himsel.me/material-theme/2016/09/19/use-my-jekyll-theme.html)  
-If you are too busy to read these few lines, then please do this:  
-- fork repo  
-- change the site's url and other values in `_config.yml`  
+If you want to use the same theme that I'm using feel free to check the following [article](http://himsel.me/material-theme/2016/09/19/use-my-jekyll-theme.html).  
+
 
 #### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
