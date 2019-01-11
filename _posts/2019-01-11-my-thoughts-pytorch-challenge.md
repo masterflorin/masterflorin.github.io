@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My thoughts on PyTorch Challenge Scholarship"
-date:   2019-01-11 22:58:00 +0200
+date:   2019-01-11 23:03:00 +0200
 tags: ['pytorch', 'udacity', 'deep learning', 'challenge', 'neural networks']
 author: "Florin Cioloboc"
 ---
