@@ -12,6 +12,4 @@ Recently I thought about creating a dev landing page in order to better present 
 
 So that's it for my first blog post, this is where I'm going to share some of my thoughts while exercising blogging and perhaps learn  a little bit of web development along the way.
 
-All the best,
-
-Florin
+All the best.
