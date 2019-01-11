@@ -24,7 +24,5 @@ Not long after the article got submitted to the editors, together with another s
 Fine-tuning a model is quite a broad topic as it involves pretty everything hyperparameter, strategies to improve it, transfer learning, so on and so forth. With that being said I'm inviting you whether you are a beginner or experienced to have a look at my [shared article](https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20). 
 
 
-Best,
-Florin
 
 

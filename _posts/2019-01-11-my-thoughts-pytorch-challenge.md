@@ -40,22 +40,22 @@ I particularly enjoyed lessons 2 to 6, with my favourite being lesson 5 (Convolu
 
 ### The Good, The Bad, The Beautiful
 
-*The Good:* Great introduction for beginners with low prerequisites (Python, Numpy, Pandas, some calculus, and linear algebra). It wasn't necessary to know concepts on machine learning but it would have been useful in helping you go through the material a bit faster. For a newbie (such as I), I couldn't have asked for something better. There were many opportunities for you to learn from student buddies, student mentors to study groups, and side-projects. 
+**The Good:** Great introduction for beginners with low prerequisites (Python, Numpy, Pandas, some calculus, and linear algebra). It wasn't necessary to know concepts on machine learning but it would have been useful in helping you go through the material a bit faster. For a newbie (such as I), I couldn't have asked for something better. There were many opportunities for you to learn from student buddies, student mentors to study groups, and side-projects. 
 
-*The Bad:* Not directed towards content material but to the fact that you needed a pretty fast computer, by that I mean a good GPU (preferably NVIDIA as PyTorch needs CUDA) to run models in a reasonable amount of time. For those unlucky who are still using some old laptops or computers then you have a few alternatives, the ones that don't cost money are [Google Colaboratory](https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=3IEVK-KFxi5Z) and [Kaggle](http://kaggle.com/). For a more in-depth analysis of what option you have check out this [article](https://towardsdatascience.com/maximize-your-gpu-dollars-a9133f4e546a). 
+**The Bad:** Not directed towards content material but to the fact that you needed a pretty fast computer, by that I mean a good GPU (preferably NVIDIA as PyTorch needs CUDA) to run models in a reasonable amount of time. For those unlucky who are still using some old laptops or computers then you have a few alternatives, the ones that don't cost money are [Google Colaboratory](https://colab.research.google.com/notebooks/gpu.ipynb#scrollTo=3IEVK-KFxi5Z) and [Kaggle](http://kaggle.com/). For a more in-depth analysis of what option you have check out this [article](https://towardsdatascience.com/maximize-your-gpu-dollars-a9133f4e546a). 
 
-*The Beautiful:* The community and the Udacity team. To be honest after taking finishing this challenge I can't imagine ever taking a MOOC again without a community backing me up. The Slack community was superbly handled by the Udacity team which was an accomplishment taking into account so many students. While the early days were tough due to so much noise and random activity, the community managed to become more focused and eventually organized itself into study groups and all sorts of interesting channels. In addition, there were student volunteers, alumni from the [Deep Learning Nanodegree](https://eu.udacity.com/course/deep-learning-nanodegree--nd101), as well as professionals who regularly hosted AMA sessions, live-webinars on topics such as projects, networking, career advice and so much more. 
+**The Beautiful:** The community and the Udacity team. To be honest after taking finishing this challenge I can't imagine ever taking a MOOC again without a community backing me up. The Slack community was superbly handled by the Udacity team which was an accomplishment taking into account so many students. While the early days were tough due to so much noise and random activity, the community managed to become more focused and eventually organized itself into study groups and all sorts of interesting channels. In addition, there were student volunteers, alumni from the [Deep Learning Nanodegree](https://eu.udacity.com/course/deep-learning-nanodegree--nd101), as well as professionals who regularly hosted AMA sessions, live-webinars on topics such as projects, networking, career advice and so much more. 
 
 ### How did I succeed?
 
 Having a full-time job was an obstacle in this case but doable, the *key* to success here was staying organized. 
 My recipe for success consisted of:
-- Studying everyday for at least 3-4h, plus additional hours on the weekend
-- Write a weekly summary of what you've learned and accomplished during the week
-- Participate on Slack everyday whenever you're taking a 10-15 minutes break
-- Look up answers on Slack before asking, if it wasn't clear ask a question or make sum up of your discovery and post it on a channel
-- Schedule my time according to which units and lessons I'm taking
-- Finish earlier than the deadline (this gives you more time to work on your project and participate in the community)
+1. Schedule my time according to which units and lessons I'm taking
+2. Studying everyday for at least 3-4h, plus additional hours on the weekend
+3. Participate on Slack everyday whenever you're taking a 10-15 minutes break
+4. Look up answers on Slack before asking, if it wasn't clear ask a question or make sum up of your discovery and post it on a channel
+5. Write a weekly summary of what you've learned and accomplished during the week
+6. Finish earlier than the deadline (this gives you more time to work on your project and participate in the community)
 
 While this isn't a fail-proof receipe it certaintly there are two essential aspects about it which I would like to point out: *consistency* and *perseverance*. You need to spend a consistent amount of time on the material to get a good understanding and perseverance is what helps you surpass obstacles. The latter is also where the community can jump in as long as you are open and willing to ask for help. There is no shame in doing so, on the contrary at some point you will be able to do the same, help others who are in need. 
 
@@ -72,4 +72,6 @@ In such a short timespan I managed to accomplish (not in order):
 
 ### Last words before going
 
-All in all, I must once again say what a valuable learning experience this course has been for me I can only encourage you to explore what Udacity has to offer in terms of free courses or nanodegrees or even applying for a [scholarship](https://www.udacity.com/scholarships). 
+All in all, I must once again say what a valuable learning experience this course has been for me I can only encourage you to explore what Udacity has to offer in terms of free courses or nanodegrees or even applying for a [scholarship](https://www.udacity.com/scholarships).
+
+*This was one heck of a ride. Thank you to all of you.* 
