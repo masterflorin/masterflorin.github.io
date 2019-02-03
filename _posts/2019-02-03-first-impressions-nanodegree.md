@@ -6,7 +6,7 @@ tags: ['pytorch', 'udacity', 'deep learning', 'nanodegree', 'scholarship']
 author: "Florin Cioloboc"
 ---
 
-*A while ago, I received the [great news](https://twitter.com/florincioloboc/status/1086297229965647872) from Udacity that I've been accepted for the Deep Learning Nanodegree with a scholarship. *
+*A while ago, I received the [great news](https://twitter.com/florincioloboc/status/1086297229965647872) from Udacity that I've been accepted for the Deep Learning Nanodegree with a scholarship.*
 
 I wanted to write this post as soon as I finished with the first project on Bike sharing, however as soon as I started working on the next lessons left it behind so it's actually going to be shorter than I initially planned it to be. Almost two weeks have passed since I began so it's about time I shared my views.
 
