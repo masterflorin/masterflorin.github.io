@@ -1,3 +1,5 @@
+- name: Deep Learning Nanodegree Projects (Upcoming)
+  description: "Projects completed during the Nanodegree"
 - name: Deep Learning Nanodegree
   link: "dlnd-udacity"
   description: "Repository with notes and implementations from Deep Learning Nanodegree"
