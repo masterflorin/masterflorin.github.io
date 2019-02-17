@@ -1,6 +1,9 @@
-- name: PyTorch Challenge notes
-  link: "/PyTorchChallengeScholarship2018-19"
-  description: "Compiling a comprehensive repository of notes, notebooks, and tips for fine-tuning as a result of participating in the course."
+- name: Deep Learning Nanodegree
+  link: "dlnd-udacity"
+  description: "Repository with notes and implementations from Deep Learning Nanodegree"
+- name: PyTorch Challenge - Flower Classifier
+  link: "PyTorchChallengeScholarship2018-19"
+  description: "Repository of notes and project from the Udacity PyTorch Scholarship Challenge"
 - name: Android IstSOS client
   link: "gsoc16-istsos/"
-  description: "Some time ago I participated in the Google Summer of Code, where I worked on developing the Android IstSOS client."
+  description: "Developed an open source Android client for creating customizable applications for istSOS platform."
